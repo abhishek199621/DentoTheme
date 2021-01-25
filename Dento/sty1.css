@@ -1,0 +1,147 @@
+
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+#hd1{
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    
+    color:black;
+}
+#hd2{
+    background-color: dodgerblue;
+}
+#icon{
+    font-size: 16px; 
+    color: cornflowerblue;
+    padding-right:10px;
+}
+#upperhead{
+    background-color: #f2f2f2;
+    padding:5px;
+
+}
+#size{
+    height:20px;
+    width: 20px;;
+}
+.foot-outer{
+    background-image: url("./img/footer1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    height: 100%;
+    width: 100%;
+
+}
+.foot-inner{
+    background-color:rgba(16, 17, 43, 0.815);
+    height: 100%;
+    width: 100%;
+    border-color:rgba(16, 17, 43, 0.815); 
+
+}
+
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: floralwhite;
+    float: left;
+    font-weight: 600;
+}
+.txt
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: floralwhite;
+    font-weight: normal;
+    text-align: center;
+}
+.stextw{
+    color: floralwhite;padding-left: 5px;
+}
+.icon{
+    font-size:16px; color: cornflowerblue;
+}
+.stextt{
+    margin-top: 70px;
+    color: floralwhite;padding-left: 5px;font-size: 2rem;
+}
+.iconfoot{
+    font-size: 20px; 
+    color:floralwhite;
+    padding-right:10px;
+}
+.formbtn{
+    height:40px ;
+    border-radius: 2px;
+}
+.tblwid{
+    width: 150px;
+    font-weight: 200;    
+}
+.tblr{
+    width: 130px;
+    text-align: right;
+}
+
+.pad{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heding{
+    text-align: center;
+    padding-top: 30px;
+   
+}
+.backbook{
+
+    background-image: url('./img/backbook.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 350px;
+    background-attachment:fixed;
+}
+.backserve{
+
+    background-image: url('./img/backserve.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+}
+.backwel{
+
+    background-image: url('./img/backwel.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+}
+.backtest{
+
+    background-image: url('./img/backtest.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 350px;
+    background-attachment: fixed;
+}
+.booki{
+    background-color:rgba(0,0,0,.3);
+    border-color:rgba(0,0,0,.3) 
+}
+.t1{
+    border-spacing: 5px;
+    border-collapse: separate;
+
+}
+.ft{
+    padding-right: 5px;
+}
+.ft1{
+    padding: 5px; 
+    font-size: 15px;
+}
