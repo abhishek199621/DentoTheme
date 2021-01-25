@@ -1,0 +1,39 @@
+.backtop {
+  background-image: url("bactop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+}
+.backbook {
+  background-image: url("backbook.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  background-attachment: fixed;
+}
+.fc {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.backour {
+  background-image: url("backourservice.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  background-attachment: fixed;
+}
+.backtest {
+  background-image: url("backtest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+}
+.footerback {
+  background-image: url("1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+}
