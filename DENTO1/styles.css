@@ -1,0 +1,111 @@
+ /* .border1 
+{
+    
+    background-image: url(3.jpg);
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    float: left;
+ }  */
+.footer 
+{   
+    background-size: cover;
+    opacity:initial;
+    background-image: url(./images1/3.jpg);
+    background-color: rgba(25, 25, 27, 0.61);
+    position: relative;
+    left:0;
+    bottom:0;
+    width:100%;
+    float: left;
+    padding-top: 60px;
+}
+span.tab-space
+{ padding-left: 1em;}
+.section1,.section2,.section3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ .book{  
+
+    background-image: url('./images1/bg2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment:fixed;
+ } 
+ .jumbotron 
+{
+    background-color: rgba(25, 25, 27, 0.61);
+ 
+    background-image: url("./images1/bg1.jpg");
+    
+	background-size: cover;
+    background-attachment: fixed;
+}
+
+.feedback{
+    
+    background-image: url("./images1/bg3.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment:fixed;
+    background-color : black;
+    
+    
+    
+}
+
+.booking1{ 
+    background-color: rgba(0,0,0,0.3);
+
+}
+.our-services {
+    background-image: url("./images1/bg4.jpg");
+    background-color: rgba(25, 25, 27, 0.61);
+    
+    background-repeat: no-repeat;
+    
+    
+
+    background-size: cover;
+    min-height: 500px;
+    background-attachment:fixed;
+    
+}
+/* .bg-gradient-overlay::after { 
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: #2c455d;
+    background: -webkit-linear-gradient(to right, #2c455d, #00012c);
+    background: linear-gradient(to right, #2c455d, #00012c);
+    opacity: 0.85;
+ } */
+.section-padding-100-0 {
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+.content-mb-30{
+    margin-bottom: 30px;
+
+}
+.video-play-button {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    color: #7760fa;
+    top: 50%;
+    left: 50%;
+    margin-top: -30px;
+    margin-left: -30px;
+    text-align:center;
+    line-height: 60px;
+    font-size: 20px;
+}
